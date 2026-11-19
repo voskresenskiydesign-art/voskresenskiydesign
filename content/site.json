@@ -1,0 +1,3482 @@
+{
+  "version": 1,
+  "settings": {
+    "brand": "Voskresenskiy",
+    "brandSuffix": "design",
+    "defaultLang": "ru",
+    "accentA": "#F5332C",
+    "accentB": "#CCC8B9",
+    "accentC": "#000000",
+    "seo": {
+      "title": {
+        "ru": "Voskresenskiy Design — Motion & 3D дизайнер",
+        "uz": "Voskresenskiy Design — Motion va 3D dizayner",
+        "en": "Voskresenskiy Design — Motion & 3D Designer"
+      },
+      "description": {
+        "ru": "Портфолио senior motion и 3D дизайнера: CGI, брендинг, AI-визуал, реклама для 150+ компаний.",
+        "uz": "Senior motion va 3D dizayner portfoliosi: CGI, brending, AI-vizual, 150+ kompaniya uchun reklama.",
+        "en": "Portfolio of a senior motion & 3D designer: CGI, branding, AI visuals and ads for 150+ companies."
+      }
+    },
+    "cover": {
+      "type": "video",
+      "url": "assets/media/cover/hero.mp4",
+      "poster": "assets/media/cover/hero-poster.webp"
+    },
+    "clientsCount": "150+",
+    "cv": "assets/cv/CV_Voskresenskiy.pdf"
+  },
+  "contacts": {
+    "telegram": "voskresenskiysl",
+    "instagram": "voskresenskiy_s",
+    "phone": "+998 93 004 29 01",
+    "email": "voskresenskiydesign@gmail.com"
+  },
+  "hero": {
+    "eyebrow": {
+      "ru": "Motion Design · 3D · CGI · AI",
+      "uz": "Motion Design · 3D · CGI · AI",
+      "en": "Motion Design · 3D · CGI · AI"
+    },
+    "title": {
+      "ru": "Senior graphic\ndesigner.",
+      "uz": "Senior graphic\ndesigner.",
+      "en": "Senior graphic\ndesigner."
+    },
+    "highlight": {
+      "ru": "designer",
+      "uz": "designer",
+      "en": "designer"
+    },
+    "subtitle": {
+      "ru": "Рекламные ролики, продуктовый CGI и AI-визуал. Более 5 лет практики, 150+ компаний.",
+      "uz": "Reklama roliklari, mahsulot CGI va AI-vizual. 5 yildan ortiq tajriba, 150+ kompaniya.",
+      "en": "Commercials, product CGI and AI visuals. 5+ years of practice, 150+ companies."
+    },
+    "mode": "work"
+  },
+  "stats": [
+    {
+      "value": "5+",
+      "label": {
+        "ru": "лет практики",
+        "uz": "yillik tajriba",
+        "en": "years of practice"
+      }
+    },
+    {
+      "value": "150+",
+      "label": {
+        "ru": "компаний-клиентов",
+        "uz": "mijoz kompaniya",
+        "en": "client companies"
+      }
+    },
+    {
+      "value": "600+",
+      "label": {
+        "ru": "сданных проектов",
+        "uz": "topshirilgan loyiha",
+        "en": "projects delivered"
+      }
+    }
+  ],
+  "about": {
+    "title": {
+      "ru": "От концепции до финального рендера",
+      "uz": "Konsepsiyadan yakuniy rendergacha",
+      "en": "From concept to final render"
+    },
+    "text": {
+      "ru": "Веду проект целиком: идея, стайлфреймы, 3D, анимация, композитинг и цвет. Работаю с брендами, агентствами и продакшенами. Соблюдаю сроки и техническое задание.",
+      "uz": "Loyihani to‘liq olib boraman: g‘oya, stylframe, 3D, animatsiya, kompozitinga va rang. Brendlar, agentliklar va prodakshnlar bilan ishlayman. Muddat va texnik topshiriqqa rioya qilaman.",
+      "en": "I handle the full process: concept, style frames, 3D, animation, compositing and color. I work with brands, agencies and production houses, on brief and on schedule."
+    }
+  },
+  "categories": [
+    {
+      "id": "motion",
+      "label": {
+        "ru": "Моушн",
+        "uz": "Motion",
+        "en": "Motion"
+      }
+    },
+    {
+      "id": "3d",
+      "label": {
+        "ru": "3D / CGI",
+        "uz": "3D / CGI",
+        "en": "3D / CGI"
+      }
+    },
+    {
+      "id": "ai",
+      "label": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visuals"
+      }
+    },
+    {
+      "id": "branding",
+      "label": {
+        "ru": "Брендинг",
+        "uz": "Brending",
+        "en": "Branding"
+      }
+    },
+    {
+      "id": "graphic",
+      "label": {
+        "ru": "Графика",
+        "uz": "Grafika",
+        "en": "Graphic"
+      }
+    }
+  ],
+  "works": [
+    {
+      "id": "v7ded89fd",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/cgi-1-7ded89.mp4",
+      "preview": "assets/media/works/3d/cgi-1-7ded89@preview.mp4",
+      "poster": "assets/media/works/3d/cgi-1-7ded89@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — CGI-ролик",
+        "uz": "APEX — CGI-rolik",
+        "en": "APEX — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ve585aae5",
+      "category": "motion",
+      "type": "video",
+      "src": "assets/media/works/motion/2-rolik-1-e585aa.mp4",
+      "preview": "assets/media/works/motion/2-rolik-1-e585aa@preview.mp4",
+      "poster": "assets/media/works/motion/2-rolik-1-e585aa@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Моушн-ролик",
+        "uz": "Ads Panel — Motion-rolik",
+        "en": "Ads Panel — Motion spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v7cd784e1",
+      "category": "ai",
+      "type": "video",
+      "src": "assets/media/works/ai/2-7cd784.mp4",
+      "preview": "assets/media/works/ai/2-7cd784@preview.mp4",
+      "poster": "assets/media/works/ai/2-7cd784@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "AI-ролик",
+        "uz": "AI-rolik",
+        "en": "AI film"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i56867dfa",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-13-56867d.webp",
+      "full": "assets/media/works/graphic/1-13-56867d@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "ISFT — Постер",
+        "uz": "ISFT — Poster",
+        "en": "ISFT — Poster"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v49651ef5",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/full-cgi-full-4k-1-49651e.mp4",
+      "preview": "assets/media/works/3d/full-cgi-full-4k-1-49651e@preview.mp4",
+      "poster": "assets/media/works/3d/full-cgi-full-4k-1-49651e@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX × Apexbank — CGI-ролик",
+        "uz": "APEX × Apexbank — CGI-rolik",
+        "en": "APEX × Apexbank — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX × Apexbank",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "vb03898ac",
+      "category": "motion",
+      "type": "video",
+      "src": "assets/media/works/motion/main-reels-1-b03898.mp4",
+      "preview": "assets/media/works/motion/main-reels-1-b03898@preview.mp4",
+      "poster": "assets/media/works/motion/main-reels-1-b03898@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX Bank — Моушн-ролик",
+        "uz": "APEX Bank — Motion-rolik",
+        "en": "APEX Bank — Motion spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX Bank",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "vaafa024d",
+      "category": "ai",
+      "type": "video",
+      "src": "assets/media/works/ai/full-aafa02.mp4",
+      "preview": "assets/media/works/ai/full-aafa02@preview.mp4",
+      "poster": "assets/media/works/ai/full-aafa02@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "AI-ролик",
+        "uz": "AI-rolik",
+        "en": "AI film"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i30fdcda8",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-14-30fdcd.webp",
+      "full": "assets/media/works/graphic/1-14-30fdcd@full.webp",
+      "ratio": "4/3",
+      "title": {
+        "ru": "APEX — Баннер",
+        "uz": "APEX — Banner",
+        "en": "APEX — Banner"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v8a68d284",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/intro-animation-logo-8a68d2.mp4",
+      "preview": "assets/media/works/3d/intro-animation-logo-8a68d2@preview.mp4",
+      "poster": "assets/media/works/3d/intro-animation-logo-8a68d2@poster.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "Dorebi — Анимация логотипа",
+        "uz": "Dorebi — Logotip animatsiyasi",
+        "en": "Dorebi — Logo animation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Dorebi",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ve93547bc",
+      "category": "motion",
+      "type": "video",
+      "src": "assets/media/works/motion/motion-3-e93547.mp4",
+      "preview": "assets/media/works/motion/motion-3-e93547@preview.mp4",
+      "poster": "assets/media/works/motion/motion-3-e93547@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Анонс события",
+        "uz": "Tadbir anonsi",
+        "en": "Event teaser"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v49d55ced",
+      "category": "ai",
+      "type": "video",
+      "src": "assets/media/works/ai/full-alfabank-reels-49d55c.mp4",
+      "preview": "assets/media/works/ai/full-alfabank-reels-49d55c@preview.mp4",
+      "poster": "assets/media/works/ai/full-alfabank-reels-49d55c@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Альфа-Банк — AI-ролик",
+        "uz": "Alfa-Bank — AI-rolik",
+        "en": "Alfa-Bank — AI film"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Альфа-Банк",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i9a8e3ed1",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-16-9a8e3e.webp",
+      "full": "assets/media/works/graphic/1-16-9a8e3e@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Постер",
+        "uz": "Yong Xin — Poster",
+        "en": "Yong Xin — Poster"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v94736b05",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/stoyki-1-94736b.mp4",
+      "preview": "assets/media/works/3d/stoyki-1-94736b@preview.mp4",
+      "poster": "assets/media/works/3d/stoyki-1-94736b@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — CGI-ролик",
+        "uz": "Ads Panel — CGI-rolik",
+        "en": "Ads Panel — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v0a67a2fa",
+      "category": "motion",
+      "type": "video",
+      "src": "assets/media/works/motion/motion-4k-ufll-0a67a2.mp4",
+      "preview": "assets/media/works/motion/motion-4k-ufll-0a67a2@preview.mp4",
+      "poster": "assets/media/works/motion/motion-4k-ufll-0a67a2@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "UI-анимация",
+        "uz": "UI-animatsiya",
+        "en": "UI animation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1e1e2eab",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/1-18-1e1e2e.webp",
+      "full": "assets/media/works/ai/1-18-1e1e2e@full.webp",
+      "ratio": "29/36",
+      "title": {
+        "ru": "Natulique — Ключевой визуал",
+        "uz": "Natulique — Asosiy vizual",
+        "en": "Natulique — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Natulique",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if2551896",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-23-f25518.webp",
+      "full": "assets/media/works/graphic/1-23-f25518@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Обложка",
+        "uz": "Ads Panel — Muqova",
+        "en": "Ads Panel — Cover"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "vf94d29e3",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/full-4k-motion-1-f94d29.mp4",
+      "preview": "assets/media/works/3d/full-4k-motion-1-f94d29@preview.mp4",
+      "poster": "assets/media/works/3d/full-4k-motion-1-f94d29@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — CGI-ролик",
+        "uz": "APEX — CGI-rolik",
+        "en": "APEX — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v1033e81d",
+      "category": "motion",
+      "type": "video",
+      "src": "assets/media/works/motion/ads-smart-123-1033e8.mp4",
+      "preview": "assets/media/works/motion/ads-smart-123-1033e8@preview.mp4",
+      "poster": "assets/media/works/motion/ads-smart-123-1033e8@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Моушн-ролик",
+        "uz": "Ads Panel — Motion-rolik",
+        "en": "Ads Panel — Motion spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i9a4a9912",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/image-2026-10-22-17-02-50-9a4a99.webp",
+      "full": "assets/media/works/ai/image-2026-10-22-17-02-50-9a4a99@full.webp",
+      "ratio": "1711/1148",
+      "title": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i9f196714",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-30-9f1967.webp",
+      "full": "assets/media/works/graphic/1-30-9f1967@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "vbc6d14c1",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/key-v-bc6d14.mp4",
+      "preview": "assets/media/works/3d/key-v-bc6d14@preview.mp4",
+      "poster": "assets/media/works/3d/key-v-bc6d14@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — CGI-ролик",
+        "uz": "APEX — CGI-rolik",
+        "en": "APEX — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i81135a1a",
+      "category": "motion",
+      "type": "image",
+      "src": "assets/media/works/motion/4k-f1-3-81135a.webp",
+      "full": "assets/media/works/motion/4k-f1-3-81135a@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX × F1 — Ключевой визуал",
+        "uz": "APEX × F1 — Asosiy vizual",
+        "en": "APEX × F1 — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX × F1",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ifacdacc5",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/image-2026-10-22-17-03-06-facdac.webp",
+      "full": "assets/media/works/ai/image-2026-10-22-17-03-06-facdac@full.webp",
+      "ratio": "856/577",
+      "title": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i576863be",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-33-576863.webp",
+      "full": "assets/media/works/graphic/1-33-576863@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Juicedesign — Баннер",
+        "uz": "Juicedesign — Banner",
+        "en": "Juicedesign — Banner"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Juicedesign",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "v877ac1dc",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/motion-cgi-last-877ac1.mp4",
+      "preview": "assets/media/works/3d/motion-cgi-last-877ac1@preview.mp4",
+      "poster": "assets/media/works/3d/motion-cgi-last-877ac1@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — CGI-ролик",
+        "uz": "APEX — CGI-rolik",
+        "en": "APEX — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i73287749",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/image-2026-10-22-17-09-49-732877.webp",
+      "full": "assets/media/works/ai/image-2026-10-22-17-09-49-732877@full.webp",
+      "ratio": "1723/1149",
+      "title": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i614cd68a",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-35-614cd6.webp",
+      "full": "assets/media/works/graphic/1-35-614cd6@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Mecca — Ключевой визуал",
+        "uz": "Mecca — Asosiy vizual",
+        "en": "Mecca — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Mecca",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "vbdce5057",
+      "category": "3d",
+      "type": "video",
+      "src": "assets/media/works/3d/night-version-3-bdce50.mp4",
+      "preview": "assets/media/works/3d/night-version-3-bdce50@preview.mp4",
+      "poster": "assets/media/works/3d/night-version-3-bdce50@poster.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — CGI-ролик",
+        "uz": "APEX — CGI-rolik",
+        "en": "APEX — CGI spot"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i06ac6efa",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/img-2806-06ac6e.webp",
+      "full": "assets/media/works/ai/img-2806-06ac6e@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "AI-персонаж",
+        "uz": "AI-personaj",
+        "en": "AI character"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ife695d26",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-37-fe695d.webp",
+      "full": "assets/media/works/graphic/1-37-fe695d@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Befit Race — Обложка",
+        "uz": "Befit Race — Muqova",
+        "en": "Befit Race — Cover"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Befit Race",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1b0c53a2",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/1-38-1b0c53.webp",
+      "full": "assets/media/works/3d/1-38-1b0c53@full.webp",
+      "ratio": "108/145",
+      "title": {
+        "ru": "Ads Panel — Продуктовый CGI",
+        "uz": "Ads Panel — Mahsulot CGI",
+        "en": "Ads Panel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4eab8175",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/magicrealx-create-a-character-a-bear-with-a-ciga-4eab81.webp",
+      "full": "assets/media/works/ai/magicrealx-create-a-character-a-bear-with-a-ciga-4eab81@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "AI-персонаж",
+        "uz": "AI-personaj",
+        "en": "AI character"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "iaef5a44f",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-7-aef5a4.webp",
+      "full": "assets/media/works/graphic/1-7-aef5a4@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i443fb657",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/1-44-443fb6.webp",
+      "full": "assets/media/works/3d/1-44-443fb6@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Allplay — 3D-визуализация",
+        "uz": "Allplay — 3D-vizualizatsiya",
+        "en": "Allplay — 3D visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Allplay",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "id27b8bfc",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/magnific-img1-img1-45-ultrad-igbgg1m3uk-d27b8b.webp",
+      "full": "assets/media/works/ai/magnific-img1-img1-45-ultrad-igbgg1m3uk-d27b8b@full.webp",
+      "ratio": "43/24",
+      "title": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i59b88a0f",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-kopiya-3-59b88a.webp",
+      "full": "assets/media/works/graphic/1-kopiya-3-59b88a@full.webp",
+      "ratio": "8/5",
+      "title": {
+        "ru": "Asaka Bank — Презентация",
+        "uz": "Asaka Bank — Taqdimot",
+        "en": "Asaka Bank — Presentation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Asaka Bank",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ia6e41e5a",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/1-9-a6e41e.webp",
+      "full": "assets/media/works/3d/1-9-a6e41e@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Sober Perfume — Презентация",
+        "uz": "Sober Perfume — Taqdimot",
+        "en": "Sober Perfume — Presentation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Sober Perfume",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4843d0ed",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/magnific-img1-img1-45-3550-img-bh1n0rloqr-4843d0.webp",
+      "full": "assets/media/works/ai/magnific-img1-img1-45-3550-img-bh1n0rloqr-4843d0@full.webp",
+      "ratio": "168/95",
+      "title": {
+        "ru": "AI-визуал",
+        "uz": "AI-vizual",
+        "en": "AI visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i3283ebc2",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-13-3283eb.webp",
+      "full": "assets/media/works/graphic/2-13-3283eb@full.webp",
+      "ratio": "29/36",
+      "title": {
+        "ru": "Natulique — Ключевой визуал",
+        "uz": "Natulique — Asosiy vizual",
+        "en": "Natulique — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Natulique",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "iecc7118e",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-16-ecc711.webp",
+      "full": "assets/media/works/3d/2-16-ecc711@full.webp",
+      "ratio": "3437/2071",
+      "title": {
+        "ru": "Интерьерная визуализация",
+        "uz": "Interyer vizualizatsiyasi",
+        "en": "Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i9531e352",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/4-9-9531e3.webp",
+      "full": "assets/media/works/ai/4-9-9531e3@full.webp",
+      "ratio": "29/36",
+      "title": {
+        "ru": "Natulique — Ключевой визуал",
+        "uz": "Natulique — Asosiy vizual",
+        "en": "Natulique — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Natulique",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib47b0286",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-copy-b47b02.webp",
+      "full": "assets/media/works/graphic/2-copy-b47b02@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "O'z Mahal — Пост для соцсетей",
+        "uz": "O'z Mahal — Ijtimoiy tarmoq posti",
+        "en": "O'z Mahal — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "O'z Mahal",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1713384c",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-7-171338.webp",
+      "full": "assets/media/works/3d/2-7-171338@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ida888a45",
+      "category": "ai",
+      "type": "image",
+      "src": "assets/media/works/ai/5-6-da888a.webp",
+      "full": "assets/media/works/ai/5-6-da888a@full.webp",
+      "ratio": "29/36",
+      "title": {
+        "ru": "Natulique — Ключевой визуал",
+        "uz": "Natulique — Asosiy vizual",
+        "en": "Natulique — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Natulique",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i18007ade",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/asdssss-18007a.webp",
+      "full": "assets/media/works/graphic/asdssss-18007a@full.webp",
+      "ratio": "4/3",
+      "title": {
+        "ru": "Sensilis — Мокап",
+        "uz": "Sensilis — Mokap",
+        "en": "Sensilis — Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Sensilis",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i6a34fac8",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/asd-2-6a34fa.webp",
+      "full": "assets/media/works/3d/asd-2-6a34fa@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "TOKBOR — Продуктовый CGI",
+        "uz": "TOKBOR — Mahsulot CGI",
+        "en": "TOKBOR — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "TOKBOR",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i3ed0c4d9",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/box-pack-3ed0c4.webp",
+      "full": "assets/media/works/graphic/box-pack-3ed0c4@full.webp",
+      "ratio": "43/24",
+      "title": {
+        "ru": "Продуктовый CGI",
+        "uz": "Mahsulot CGI",
+        "en": "Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4d954d74",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/asd-4d954d.webp",
+      "full": "assets/media/works/3d/asd-4d954d@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX × F1 — Ключевой визуал",
+        "uz": "APEX × F1 — Asosiy vizual",
+        "en": "APEX × F1 — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX × F1",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie5e19d8c",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/cold-1-e5e19d.webp",
+      "full": "assets/media/works/graphic/cold-1-e5e19d@full.webp",
+      "ratio": "825/1024",
+      "title": {
+        "ru": "Lumarel — Продуктовый CGI",
+        "uz": "Lumarel — Mahsulot CGI",
+        "en": "Lumarel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Lumarel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ia86a42e0",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/asdasdadsa-a86a42.webp",
+      "full": "assets/media/works/3d/asdasdadsa-a86a42@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "The Picture — Постер",
+        "uz": "The Picture — Poster",
+        "en": "The Picture — Poster"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "The Picture",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i71cab7d7",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/instagrampost-1-71cab7.webp",
+      "full": "assets/media/works/graphic/instagrampost-1-71cab7@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Пост для соцсетей",
+        "uz": "Ijtimoiy tarmoq posti",
+        "en": "Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i805b5a9d",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/image-2026-04-16-17-22-19-805b5a.webp",
+      "full": "assets/media/works/3d/image-2026-04-16-17-22-19-805b5a@full.webp",
+      "ratio": "1268/713",
+      "title": {
+        "ru": "APEX — Презентация",
+        "uz": "APEX — Taqdimot",
+        "en": "APEX — Presentation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i980184b3",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/instagrampost-2-2-980184.webp",
+      "full": "assets/media/works/graphic/instagrampost-2-2-980184@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Продуктовый CGI",
+        "uz": "Mahsulot CGI",
+        "en": "Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i2189f069",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/post-3111-2189f0.webp",
+      "full": "assets/media/works/3d/post-3111-2189f0@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "START × Wildred — Ключевой визуал",
+        "uz": "START × Wildred — Asosiy vizual",
+        "en": "START × Wildred — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "START × Wildred",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i49f35125",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/instagrampost-3-2-49f351.webp",
+      "full": "assets/media/works/graphic/instagrampost-3-2-49f351@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Продуктовый CGI",
+        "uz": "Mahsulot CGI",
+        "en": "Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i2a9ec804",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/render-1-2a9ec8.webp",
+      "full": "assets/media/works/3d/render-1-2a9ec8@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "3D-визуализация",
+        "uz": "3D-vizualizatsiya",
+        "en": "3D visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i01305222",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/photo-1-2026-11-18-12-20-03-013052.webp",
+      "full": "assets/media/works/graphic/photo-1-2026-11-18-12-20-03-013052@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "Олежа — Пост для соцсетей",
+        "uz": "Olezha — Ijtimoiy tarmoq posti",
+        "en": "Olezha — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Олежа",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie7165d4a",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/table1-e7165d.webp",
+      "full": "assets/media/works/3d/table1-e7165d@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "Витаферрас — Упаковка",
+        "uz": "Vitaferras — Qadoq",
+        "en": "Vitaferras — Packaging"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Витаферрас",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ic204d6be",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/post-2-c204d6.webp",
+      "full": "assets/media/works/graphic/post-2-c204d6@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "O'z Makon — Ключевой визуал",
+        "uz": "O'z Makon — Asosiy vizual",
+        "en": "O'z Makon — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "O'z Makon",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie8077712",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/var-1-e80777.webp",
+      "full": "assets/media/works/3d/var-1-e80777@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Мокап",
+        "uz": "Mokap",
+        "en": "Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i99974267",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/tikom-tehnika-post-ru-999742.webp",
+      "full": "assets/media/works/graphic/tikom-tehnika-post-ru-999742@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Tikom — Пост для соцсетей",
+        "uz": "Tikom — Ijtimoiy tarmoq posti",
+        "en": "Tikom — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Tikom",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if40d13c1",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/kalendar-domik-mockup-f40d13.webp",
+      "full": "assets/media/works/3d/kalendar-domik-mockup-f40d13@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Мокап",
+        "uz": "Mokap",
+        "en": "Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i171f0aad",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/wall-calendar-oblozhka-13-171f0a.webp",
+      "full": "assets/media/works/graphic/wall-calendar-oblozhka-13-171f0a@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Мокап",
+        "uz": "Mokap",
+        "en": "Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i7ba87114",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/primer-4-7ba871.webp",
+      "full": "assets/media/works/3d/primer-4-7ba871@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Мокап",
+        "uz": "Mokap",
+        "en": "Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i43bf4010",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/youtube-hov-2k-withoutcodec-43bf40.webp",
+      "full": "assets/media/works/graphic/youtube-hov-2k-withoutcodec-43bf40@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Dorebi — Баннер",
+        "uz": "Dorebi — Banner",
+        "en": "Dorebi — Banner"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Dorebi",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "idcea0910",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-35-dcea09.webp",
+      "full": "assets/media/works/3d/2-35-dcea09@full.webp",
+      "ratio": "108/145",
+      "title": {
+        "ru": "Ads Panel — Продуктовый CGI",
+        "uz": "Ads Panel — Mahsulot CGI",
+        "en": "Ads Panel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1f8d62ec",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/nakleyki-1-1f8d62.webp",
+      "full": "assets/media/works/graphic/nakleyki-1-1f8d62@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Стикеры",
+        "uz": "Stikerlar",
+        "en": "Stickers"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if56c6c2f",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-10-f56c6c.webp",
+      "full": "assets/media/works/3d/2-10-f56c6c@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Sober Perfume — Презентация",
+        "uz": "Sober Perfume — Taqdimot",
+        "en": "Sober Perfume — Presentation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Sober Perfume",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i0deb5ce9",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/oblozhka-reels-38-0deb5c.webp",
+      "full": "assets/media/works/graphic/oblozhka-reels-38-0deb5c@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Обложка",
+        "uz": "Muqova",
+        "en": "Cover"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "iee0109df",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-8-ee0109.webp",
+      "full": "assets/media/works/3d/2-8-ee0109@full.webp",
+      "ratio": "8/5",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "id12c04e8",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/posle-1-d12c04.webp",
+      "full": "assets/media/works/graphic/posle-1-d12c04@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "BRB Tech — Пост для соцсетей",
+        "uz": "BRB Tech — Ijtimoiy tarmoq posti",
+        "en": "BRB Tech — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "BRB Tech",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4e885cc5",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/post-2-4e885c.webp",
+      "full": "assets/media/works/3d/post-2-4e885c@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "TOKBOR — Ключевой визуал",
+        "uz": "TOKBOR — Asosiy vizual",
+        "en": "TOKBOR — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "TOKBOR",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i406abc9b",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-27-406abc.webp",
+      "full": "assets/media/works/graphic/1-27-406abc@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "ISFT — Постер",
+        "uz": "ISFT — Poster",
+        "en": "ISFT — Poster"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i00ed3242",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/image-2026-10-09-17-44-29-00ed32.webp",
+      "full": "assets/media/works/3d/image-2026-10-09-17-44-29-00ed32@full.webp",
+      "ratio": "1418/817",
+      "title": {
+        "ru": "APEX — Ключевой визуал",
+        "uz": "APEX — Asosiy vizual",
+        "en": "APEX — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i550619e7",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-5-550619.webp",
+      "full": "assets/media/works/graphic/1-5-550619@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if02d430b",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/na-vseh-marketpleysah-strany-1-f02d43.webp",
+      "full": "assets/media/works/3d/na-vseh-marketpleysah-strany-1-f02d43@full.webp",
+      "ratio": "1919/1079",
+      "title": {
+        "ru": "START × Wildred — Баннер",
+        "uz": "START × Wildred — Banner",
+        "en": "START × Wildred — Banner"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "START × Wildred",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i50f168f4",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/10-3-50f168.webp",
+      "full": "assets/media/works/graphic/10-3-50f168@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if5aef1e9",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-36-f5aef1.webp",
+      "full": "assets/media/works/3d/2-36-f5aef1@full.webp",
+      "ratio": "108/145",
+      "title": {
+        "ru": "Ads Panel — Продуктовый CGI",
+        "uz": "Ads Panel — Mahsulot CGI",
+        "en": "Ads Panel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib3616f4a",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-25-b3616f.webp",
+      "full": "assets/media/works/graphic/2-25-b3616f@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Пост для соцсетей",
+        "uz": "Ads Panel — Ijtimoiy tarmoq posti",
+        "en": "Ads Panel — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if81e509d",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/4-7-f81e50.webp",
+      "full": "assets/media/works/3d/4-7-f81e50@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Sober Perfume — Продуктовый CGI",
+        "uz": "Sober Perfume — Mahsulot CGI",
+        "en": "Sober Perfume — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Sober Perfume",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ic52d017c",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-34-c52d01.webp",
+      "full": "assets/media/works/graphic/1-34-c52d01@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i792f9ad2",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/2-9-792f9a.webp",
+      "full": "assets/media/works/3d/2-9-792f9a@full.webp",
+      "ratio": "9/5",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i016dcff6",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-33-016dcf.webp",
+      "full": "assets/media/works/graphic/2-33-016dcf@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Mecca — Ключевой визуал",
+        "uz": "Mecca — Asosiy vizual",
+        "en": "Mecca — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Mecca",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie43311f8",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/post-3-e43311.webp",
+      "full": "assets/media/works/3d/post-3-e43311@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "TOKBOR — Ключевой визуал",
+        "uz": "TOKBOR — Asosiy vizual",
+        "en": "TOKBOR — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "TOKBOR",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "id84e842e",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-8-d84e84.webp",
+      "full": "assets/media/works/graphic/1-8-d84e84@full.webp",
+      "ratio": "8/5",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie13b5fb3",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/oblozhka-1-e13b5f.webp",
+      "full": "assets/media/works/3d/oblozhka-1-e13b5f@full.webp",
+      "ratio": "9/5",
+      "title": {
+        "ru": "START × Wildred — Ключевой визуал",
+        "uz": "START × Wildred — Asosiy vizual",
+        "en": "START × Wildred — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "START × Wildred",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib1eb5947",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/4-12-b1eb59.webp",
+      "full": "assets/media/works/graphic/4-12-b1eb59@full.webp",
+      "ratio": "16/9",
+      "title": {
+        "ru": "Asaka Bank — Презентация",
+        "uz": "Asaka Bank — Taqdimot",
+        "en": "Asaka Bank — Presentation"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Asaka Bank",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1fceabe8",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/3-22-1fceab.webp",
+      "full": "assets/media/works/3d/3-22-1fceab@full.webp",
+      "ratio": "108/145",
+      "title": {
+        "ru": "Ads Panel — Продуктовый CGI",
+        "uz": "Ads Panel — Mahsulot CGI",
+        "en": "Ads Panel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4f4a4fd4",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-10-4f4a4f.webp",
+      "full": "assets/media/works/graphic/3-10-4f4a4f@full.webp",
+      "ratio": "29/36",
+      "title": {
+        "ru": "Natulique — Ключевой визуал",
+        "uz": "Natulique — Asosiy vizual",
+        "en": "Natulique — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Natulique",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i6b83f9a0",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/3-5-6b83f9.webp",
+      "full": "assets/media/works/3d/3-5-6b83f9@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i171a92d9",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/artboard-1-copy-2-171a92.webp",
+      "full": "assets/media/works/graphic/artboard-1-copy-2-171a92@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "O'z Mahal — Ключевой визуал",
+        "uz": "O'z Mahal — Asosiy vizual",
+        "en": "O'z Mahal — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "O'z Mahal",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i513bc98b",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/3-23-513bc9.webp",
+      "full": "assets/media/works/3d/3-23-513bc9@full.webp",
+      "ratio": "108/145",
+      "title": {
+        "ru": "Ads Panel — Продуктовый CGI",
+        "uz": "Ads Panel — Mahsulot CGI",
+        "en": "Ads Panel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib8ef2cf9",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/mockup-4-b8ef2c.webp",
+      "full": "assets/media/works/graphic/mockup-4-b8ef2c@full.webp",
+      "ratio": "2/3",
+      "title": {
+        "ru": "Sensilis — Ключевой визуал",
+        "uz": "Sensilis — Asosiy vizual",
+        "en": "Sensilis — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Sensilis",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i095984fa",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/3-6-095984.webp",
+      "full": "assets/media/works/3d/3-6-095984@full.webp",
+      "ratio": "8/5",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ic7d05c70",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/generated-image-november-22-2025-12-24am-c7d05c.webp",
+      "full": "assets/media/works/graphic/generated-image-november-22-2025-12-24am-c7d05c@full.webp",
+      "ratio": "43/24",
+      "title": {
+        "ru": "Lumarel — Продуктовый CGI",
+        "uz": "Lumarel — Mahsulot CGI",
+        "en": "Lumarel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Lumarel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ia19dcf04",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/4-5-a19dcf.webp",
+      "full": "assets/media/works/3d/4-5-a19dcf@full.webp",
+      "ratio": "8/5",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie39be099",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/photo-2-2026-11-18-12-20-03-e39be0.webp",
+      "full": "assets/media/works/graphic/photo-2-2026-11-18-12-20-03-e39be0@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "Олежа — Пост для соцсетей",
+        "uz": "Olezha — Ijtimoiy tarmoq posti",
+        "en": "Olezha — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Олежа",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4f7860f3",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/5-3-4f7860.webp",
+      "full": "assets/media/works/3d/5-3-4f7860@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4a3bced1",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/posle-4a3bce.webp",
+      "full": "assets/media/works/graphic/posle-4a3bce@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "BRB Tech — Пост для соцсетей",
+        "uz": "BRB Tech — Ijtimoiy tarmoq posti",
+        "en": "BRB Tech — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "BRB Tech",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie1857a9a",
+      "category": "3d",
+      "type": "image",
+      "src": "assets/media/works/3d/6-5-e1857a.webp",
+      "full": "assets/media/works/3d/6-5-e1857a@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ssmart — Ключевой визуал",
+        "uz": "Ssmart — Asosiy vizual",
+        "en": "Ssmart — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ssmart",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i8c7d10b7",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-333-8c7d10.webp",
+      "full": "assets/media/works/graphic/3-333-8c7d10@full.webp",
+      "ratio": "1134/2551",
+      "title": {
+        "ru": "ISFT — Пост для соцсетей",
+        "uz": "ISFT — Ijtimoiy tarmoq posti",
+        "en": "ISFT — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i19360158",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-7-193601.webp",
+      "full": "assets/media/works/graphic/1-7-193601@full.webp",
+      "ratio": "3/2",
+      "title": {
+        "ru": "APEX — Мокап",
+        "uz": "APEX — Mokap",
+        "en": "APEX — Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i04667e8d",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/11-3-04667e.webp",
+      "full": "assets/media/works/graphic/11-3-04667e@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib05d24c6",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/4-10-b05d24.webp",
+      "full": "assets/media/works/graphic/4-10-b05d24@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Пост для соцсетей",
+        "uz": "Ads Panel — Ijtimoiy tarmoq posti",
+        "en": "Ads Panel — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i0bc8813c",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-30-0bc881.webp",
+      "full": "assets/media/works/graphic/2-30-0bc881@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i2ebc03a9",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-20-2ebc03.webp",
+      "full": "assets/media/works/graphic/3-20-2ebc03@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Mecca — Ключевой визуал",
+        "uz": "Mecca — Asosiy vizual",
+        "en": "Mecca — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Mecca",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ica3e6b8b",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/lumarel-product-design2-ca3e6b.webp",
+      "full": "assets/media/works/graphic/lumarel-product-design2-ca3e6b@full.webp",
+      "ratio": "24/43",
+      "title": {
+        "ru": "Lumarel — Продуктовый CGI",
+        "uz": "Lumarel — Mahsulot CGI",
+        "en": "Lumarel — Product CGI"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Lumarel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i68d01200",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/photo-3-2026-11-18-12-20-03-68d012.webp",
+      "full": "assets/media/works/graphic/photo-3-2026-11-18-12-20-03-68d012@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "Олежа — Пост для соцсетей",
+        "uz": "Olezha — Ijtimoiy tarmoq posti",
+        "en": "Olezha — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Олежа",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i503024ab",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/51111222-503024.webp",
+      "full": "assets/media/works/graphic/51111222-503024@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "ISFT — Баннер",
+        "uz": "ISFT — Banner",
+        "en": "ISFT — Banner"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "idb3e9d38",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/1-1-kv-full-db3e9d.webp",
+      "full": "assets/media/works/graphic/1-1-kv-full-db3e9d@full.webp",
+      "ratio": "1/1",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie0ad9bc7",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/12-3-e0ad9b.webp",
+      "full": "assets/media/works/graphic/12-3-e0ad9b@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ie12b6311",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/9-3-e12b63.webp",
+      "full": "assets/media/works/graphic/9-3-e12b63@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Ads Panel — Пост для соцсетей",
+        "uz": "Ads Panel — Ijtimoiy tarmoq posti",
+        "en": "Ads Panel — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Ads Panel",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "id9cedf36",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-19-d9cedf.webp",
+      "full": "assets/media/works/graphic/3-19-d9cedf@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ib51d994e",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/bloknot-1-b51d99.webp",
+      "full": "assets/media/works/graphic/bloknot-1-b51d99@full.webp",
+      "ratio": "437/620",
+      "title": {
+        "ru": "ISFT — Постер",
+        "uz": "ISFT — Poster",
+        "en": "ISFT — Poster"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i58c4c5d5",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-vtoroy-variant-58c4c5.webp",
+      "full": "assets/media/works/graphic/2-vtoroy-variant-58c4c5@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "icaf878dc",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/13-3-caf878.webp",
+      "full": "assets/media/works/graphic/13-3-caf878@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i80d9f845",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/4-13-80d9f8.webp",
+      "full": "assets/media/works/graphic/4-13-80d9f8@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if59f933b",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/oblozhka-reels-3-f59f93.webp",
+      "full": "assets/media/works/graphic/oblozhka-reels-3-f59f93@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "ISFT — Обложка",
+        "uz": "ISFT — Muqova",
+        "en": "ISFT — Cover"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "ISFT",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i23ed9f22",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-23ed9f.webp",
+      "full": "assets/media/works/graphic/3-23ed9f@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i9dd50604",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/14-3-9dd506.webp",
+      "full": "assets/media/works/graphic/14-3-9dd506@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i618b3fd2",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/421312131-618b3f.webp",
+      "full": "assets/media/works/graphic/421312131-618b3f@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i34422232",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/8-344222.webp",
+      "full": "assets/media/works/graphic/8-344222@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "APEX — Ключевой визуал",
+        "uz": "APEX — Asosiy vizual",
+        "en": "APEX — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i88ba2bf8",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/15-2-88ba2b.webp",
+      "full": "assets/media/works/graphic/15-2-88ba2b@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if0eaea9b",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/5-8-f0eaea.webp",
+      "full": "assets/media/works/graphic/5-8-f0eaea@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "if51b640b",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/image-2026-04-10-15-50-01-f51b64.webp",
+      "full": "assets/media/works/graphic/image-2026-04-10-15-50-01-f51b64@full.webp",
+      "ratio": "2023/1123",
+      "title": {
+        "ru": "APEX — Ключевой визуал",
+        "uz": "APEX — Asosiy vizual",
+        "en": "APEX — Key visual"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i5ccdc87c",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/16-5ccdc8.webp",
+      "full": "assets/media/works/graphic/16-5ccdc8@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ifc808c97",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/6-8-fc808c.webp",
+      "full": "assets/media/works/graphic/6-8-fc808c@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Procare — Пост для соцсетей",
+        "uz": "Procare — Ijtimoiy tarmoq posti",
+        "en": "Procare — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Procare",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i26fdceba",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/last-new-1-26fdce.webp",
+      "full": "assets/media/works/graphic/last-new-1-26fdce@full.webp",
+      "ratio": "9/16",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "iae2fa2f1",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/2-17-ae2fa2.webp",
+      "full": "assets/media/works/graphic/2-17-ae2fa2@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "iee66254f",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/mockup-xbanner-3-ee6625.webp",
+      "full": "assets/media/works/graphic/mockup-xbanner-3-ee6625@full.webp",
+      "ratio": "4/3",
+      "title": {
+        "ru": "APEX — Мокап",
+        "uz": "APEX — Mokap",
+        "en": "APEX — Mockup"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i4420f04e",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-27-4420f0.webp",
+      "full": "assets/media/works/graphic/3-27-4420f0@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "ifbf965b4",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/post-yarkity-1-fbf965.webp",
+      "full": "assets/media/works/graphic/post-yarkity-1-fbf965@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "APEX — Пост для соцсетей",
+        "uz": "APEX — Ijtimoiy tarmoq posti",
+        "en": "APEX — Social post"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "APEX",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i944c2356",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/3-9-944c23.webp",
+      "full": "assets/media/works/graphic/3-9-944c23@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i89ac0152",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/4-9-89ac01.webp",
+      "full": "assets/media/works/graphic/4-9-89ac01@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "id0fc5113",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/5-10-d0fc51.webp",
+      "full": "assets/media/works/graphic/5-10-d0fc51@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i93b5a619",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/6-5-93b5a6.webp",
+      "full": "assets/media/works/graphic/6-5-93b5a6@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "i1fc93e57",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/7-5-1fc93e.webp",
+      "full": "assets/media/works/graphic/7-5-1fc93e@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    },
+    {
+      "id": "icf28c86c",
+      "category": "graphic",
+      "type": "image",
+      "src": "assets/media/works/graphic/9-2-cf28c8.webp",
+      "full": "assets/media/works/graphic/9-2-cf28c8@full.webp",
+      "ratio": "4/5",
+      "title": {
+        "ru": "Yong Xin — Интерьерная визуализация",
+        "uz": "Yong Xin — Interyer vizualizatsiyasi",
+        "en": "Yong Xin — Interior visualization"
+      },
+      "desc": {
+        "ru": "",
+        "uz": "",
+        "en": ""
+      },
+      "client": "Yong Xin",
+      "year": "",
+      "published": true
+    }
+  ],
+  "skills": [
+    {
+      "id": "ps",
+      "name": "Photoshop",
+      "mono": "Ps",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Ретушь, композитинг, ключевые визуалы",
+        "uz": "Retush, kompozitinga, asosiy vizuallar",
+        "en": "Retouch, compositing, key visuals"
+      }
+    },
+    {
+      "id": "ai",
+      "name": "Illustrator",
+      "mono": "Ai",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Векторная графика и логотипы",
+        "uz": "Vektor grafika va logotiplar",
+        "en": "Vector graphics and logos"
+      }
+    },
+    {
+      "id": "lr",
+      "name": "Lightroom",
+      "mono": "Lr",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Цвет и обработка фото",
+        "uz": "Rang va foto ishlov",
+        "en": "Photo color & grading"
+      }
+    },
+    {
+      "id": "ae",
+      "name": "After Effects",
+      "mono": "Ae",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Моушн-дизайн и композитинг",
+        "uz": "Motion-dizayn va kompozitinga",
+        "en": "Motion design & compositing"
+      }
+    },
+    {
+      "id": "pr",
+      "name": "Premiere Pro",
+      "mono": "Pr",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Монтаж рекламы и роликов",
+        "uz": "Reklama va roliklar montaji",
+        "en": "Editing ads and films"
+      }
+    },
+    {
+      "id": "dr",
+      "name": "DaVinci Resolve",
+      "mono": "Dr",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Колор-грейдинг и финиш",
+        "uz": "Kolor-greyding va yakuniy ishlov",
+        "en": "Color grading & finishing"
+      }
+    },
+    {
+      "id": "c4d",
+      "name": "Cinema 4D",
+      "mono": "C4D",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "3D-моушн, MoGraph, продуктовый CGI",
+        "uz": "3D-motion, MoGraph, mahsulot CGI",
+        "en": "3D motion, MoGraph, product CGI"
+      }
+    },
+    {
+      "id": "blender",
+      "name": "Blender",
+      "mono": "Bl",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Моделинг, симуляции, рендер в Cycles",
+        "uz": "Modelling, simulyatsiya, Cycles render",
+        "en": "Modeling, sims, Cycles rendering"
+      }
+    },
+    {
+      "id": "houdini",
+      "name": "Houdini",
+      "mono": "Hou",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Процедурные эффекты и симуляции",
+        "uz": "Protsedural effektlar va simulyatsiyalar",
+        "en": "Procedural FX & simulations"
+      }
+    },
+    {
+      "id": "seedream",
+      "name": "Seedream",
+      "mono": "Sd",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Генерация изображений",
+        "uz": "Tasvir generatsiyasi",
+        "en": "Image generation"
+      }
+    },
+    {
+      "id": "magnific",
+      "name": "Magnific AI",
+      "mono": "Mg",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Апскейл и детализация",
+        "uz": "Upscale va detallashtirish",
+        "en": "Upscaling & detail"
+      }
+    },
+    {
+      "id": "higgsfield",
+      "name": "Higgsfield",
+      "mono": "Hf",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "AI-видео и кинематограф",
+        "uz": "AI-video va kinematografiya",
+        "en": "AI video & cinematics"
+      }
+    },
+    {
+      "id": "comfy",
+      "name": "ComfyUI",
+      "mono": "Cu",
+      "bg": "#0A0A0A",
+      "fg": "#CCC8B9",
+      "icon": "",
+      "desc": {
+        "ru": "Ноды и кастомные AI-пайплайны",
+        "uz": "Nodlar va maxsus AI-pipeline'lar",
+        "en": "Node graphs & custom AI pipelines"
+      }
+    }
+  ],
+  "clients": [
+    {
+      "name": "APEX",
+      "logo": ""
+    },
+    {
+      "name": "Ads Panel",
+      "logo": ""
+    },
+    {
+      "name": "ISFT",
+      "logo": ""
+    },
+    {
+      "name": "APEX Bank",
+      "logo": ""
+    },
+    {
+      "name": "Dorebi",
+      "logo": ""
+    },
+    {
+      "name": "Альфа-Банк",
+      "logo": ""
+    },
+    {
+      "name": "Yong Xin",
+      "logo": ""
+    },
+    {
+      "name": "Natulique",
+      "logo": ""
+    },
+    {
+      "name": "Procare",
+      "logo": ""
+    },
+    {
+      "name": "Juicedesign",
+      "logo": ""
+    },
+    {
+      "name": "Mecca",
+      "logo": ""
+    },
+    {
+      "name": "Befit Race",
+      "logo": ""
+    },
+    {
+      "name": "Ssmart",
+      "logo": ""
+    },
+    {
+      "name": "Allplay",
+      "logo": ""
+    },
+    {
+      "name": "Asaka Bank",
+      "logo": ""
+    },
+    {
+      "name": "Sober Perfume",
+      "logo": ""
+    },
+    {
+      "name": "O'z Mahal",
+      "logo": ""
+    },
+    {
+      "name": "Sensilis",
+      "logo": ""
+    },
+    {
+      "name": "TOKBOR",
+      "logo": ""
+    },
+    {
+      "name": "Lumarel",
+      "logo": ""
+    },
+    {
+      "name": "The Picture",
+      "logo": ""
+    },
+    {
+      "name": "START",
+      "logo": ""
+    },
+    {
+      "name": "Олежа",
+      "logo": ""
+    },
+    {
+      "name": "Витаферрас",
+      "logo": ""
+    },
+    {
+      "name": "O'z Makon",
+      "logo": ""
+    },
+    {
+      "name": "Tikom",
+      "logo": ""
+    },
+    {
+      "name": "BRB Tech",
+      "logo": ""
+    }
+  ],
+  "roles": [
+    {
+      "id": "smm",
+      "mono": "Sm",
+      "title": {
+        "ru": "SMM-менеджер",
+        "uz": "SMM-menejer",
+        "en": "SMM Manager"
+      },
+      "tasks": [
+        {
+          "ru": "Контент-стратегия и рубрикатор",
+          "uz": "Kontent strategiyasi va rubrikator",
+          "en": "Content strategy and pillars"
+        },
+        {
+          "ru": "Контент-план и продакшен визуала",
+          "uz": "Kontent-reja va vizual prodakshn",
+          "en": "Content plan and visual production"
+        },
+        {
+          "ru": "Reels и короткие видео",
+          "uz": "Reels va qisqa videolar",
+          "en": "Reels and short-form video"
+        },
+        {
+          "ru": "Таргет и посевы",
+          "uz": "Target va posevlar",
+          "en": "Paid social and seeding"
+        },
+        {
+          "ru": "Аналитика охватов и вовлечённости",
+          "uz": "Qamrov va jalb etish tahlili",
+          "en": "Reach and engagement analytics"
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "mono": "Mk",
+      "title": {
+        "ru": "Маркетолог",
+        "uz": "Marketolog",
+        "en": "Marketer"
+      },
+      "tasks": [
+        {
+          "ru": "Анализ рынка и конкурентов",
+          "uz": "Bozor va raqobatchilar tahlili",
+          "en": "Market and competitor research"
+        },
+        {
+          "ru": "Позиционирование и УТП",
+          "uz": "Pozitsiyalash va USP",
+          "en": "Positioning and USP"
+        },
+        {
+          "ru": "Воронка и маркетинговая стратегия",
+          "uz": "Voronka va marketing strategiyasi",
+          "en": "Funnel and marketing strategy"
+        },
+        {
+          "ru": "Запуск рекламных кампаний",
+          "uz": "Reklama kampaniyalarini ishga tushirish",
+          "en": "Ad campaign launches"
+        },
+        {
+          "ru": "Метрики: CAC, ROMI, конверсии",
+          "uz": "Metrikalar: CAC, ROMI, konversiya",
+          "en": "Metrics: CAC, ROMI, conversion"
+        }
+      ]
+    },
+    {
+      "id": "cd",
+      "mono": "Cd",
+      "title": {
+        "ru": "Креативный директор",
+        "uz": "Kreativ direktor",
+        "en": "Creative Director"
+      },
+      "tasks": [
+        {
+          "ru": "Большая идея и креативная концепция",
+          "uz": "Katta g‘oya va kreativ konsepsiya",
+          "en": "Big idea and creative concept"
+        },
+        {
+          "ru": "Брендинговые и рекламные кампании",
+          "uz": "Brending va reklama kampaniyalari",
+          "en": "Brand and advertising campaigns"
+        },
+        {
+          "ru": "Управление командой продакшена",
+          "uz": "Prodakshn jamoasini boshqarish",
+          "en": "Leading the production team"
+        },
+        {
+          "ru": "Защита идей перед клиентом",
+          "uz": "G‘oyalarni mijoz oldida himoya qilish",
+          "en": "Pitching ideas to clients"
+        },
+        {
+          "ru": "Контроль качества на всех этапах",
+          "uz": "Barcha bosqichlarda sifat nazorati",
+          "en": "Quality control at every stage"
+        }
+      ]
+    },
+    {
+      "id": "ad",
+      "mono": "Ad",
+      "title": {
+        "ru": "Арт-директор",
+        "uz": "Art-direktor",
+        "en": "Art Director"
+      },
+      "tasks": [
+        {
+          "ru": "Визуальная концепция и мудборды",
+          "uz": "Vizual konsepsiya va mudbordlar",
+          "en": "Visual concept and moodboards"
+        },
+        {
+          "ru": "Гайдлайны и дизайн-система",
+          "uz": "Gaydlaynlar va dizayn-tizim",
+          "en": "Guidelines and design system"
+        },
+        {
+          "ru": "Постановка задач дизайнерам и 3D",
+          "uz": "Dizaynerlar va 3D uchun vazifalar",
+          "en": "Briefing designers and 3D artists"
+        },
+        {
+          "ru": "Арт-дирекшн съёмок и AI-продакшена",
+          "uz": "Suratga olish va AI-prodakshn art-direksiyasi",
+          "en": "Art direction of shoots and AI production"
+        },
+        {
+          "ru": "Финальный контроль визуала",
+          "uz": "Vizualning yakuniy nazorati",
+          "en": "Final visual sign-off"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Voskresenskiy Design — Motion & 3D дизайнер</title>
+  <meta name="description" content="Портфолио senior motion и 3D дизайнера: CGI, брендинг, AI-визуал, реклама для 150+ компаний.">
+  <meta name="theme-color" content="#000000">
+  <link rel="canonical" href="https://voskresenskiydesign.uz/">
+  <link rel="alternate" hreflang="ru" href="https://voskresenskiydesign.uz/?lang=ru">
+  <link rel="alternate" hreflang="uz" href="https://voskresenskiydesign.uz/?lang=uz">
+  <link rel="alternate" hreflang="en" href="https://voskresenskiydesign.uz/?lang=en">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://voskresenskiydesign.uz/">
+  <meta property="og:title" content="Voskresenskiy Design — Motion & 3D">
+  <meta property="og:description" content="Рекламные ролики, продуктовый CGI и AI-визуал. 150+ компаний.">
+  <meta property="og:image" content="https://voskresenskiydesign.uz/assets/img/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+  <a class="skip" href="#works">Skip to work</a>
+
+  <!-- ——— Header ——— -->
+  <header class="nav" id="nav">
+    <div class="nav__bar">
+      <a class="brand" href="#top" aria-label="Voskresenskiy Design">
+        <span class="brand__mark" aria-hidden="true"><i></i></span>
+        <span class="brand__name" data-bind="brand">Voskresenskiy</span>
+        <span class="brand__suffix" data-bind="brandSuffix">design</span>
+      </a>
+
+      <nav class="nav__links" aria-label="Main">
+        <a href="#works" data-i18n="nav.works">Работы</a>
+        <a href="#about" data-i18n="nav.about">Обо мне</a>
+        <a href="#skills" data-i18n="nav.skills">Софт</a>
+        <a href="#roles" data-i18n="nav.roles">Роли</a>
+        <a href="#clients" data-i18n="nav.clients">Клиенты</a>
+        <span class="nav__pill" aria-hidden="true"></span>
+      </nav>
+
+      <div class="nav__right">
+        <div class="lang" role="group" aria-label="Language" data-lang-switch></div>
+        <div class="socials" data-socials></div>
+        <a class="btn btn--light btn--sm nav__cta" href="#contact" data-i18n="cta.talk">Обсудить проект</a>
+        <button class="burger" type="button" aria-label="Menu" aria-expanded="false" aria-controls="sheet" data-burger><span></span><span></span></button>
+      </div>
+    </div>
+
+    <div class="sheet" id="sheet" hidden>
+      <nav class="sheet__links">
+        <a href="#works" data-i18n="nav.works">Работы</a>
+        <a href="#about" data-i18n="nav.about">Обо мне</a>
+        <a href="#skills" data-i18n="nav.skills">Софт</a>
+        <a href="#roles" data-i18n="nav.roles">Роли</a>
+        <a href="#clients" data-i18n="nav.clients">Клиенты</a>
+        <a href="#contact" data-i18n="nav.contact">Контакты</a>
+        <a href="assets/cv/CV_Voskresenskiy.pdf" download="CV_Voskresenskiy.pdf" data-cv data-i18n="cta.cv">Скачать CV</a>
+      </nav>
+      <div class="sheet__foot">
+        <div class="lang" role="group" aria-label="Language" data-lang-switch></div>
+        <div class="socials" data-socials></div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ——— Hero ——— -->
+    <section class="hero" id="top">
+      <div class="hero__stage">
+        <div class="hero__media" data-hero-media></div>
+        <div class="hero__placeholder" aria-hidden="true" data-mesh><span class="glow"></span><span class="lines"></span></div>
+        <div class="hero__shade" aria-hidden="true"></div>
+
+        <div class="hero__content">
+          <div class="status" data-status></div>
+          <p class="hero__eyebrow" data-bind="hero.eyebrow"></p>
+          <h1 class="hero__title" data-hero-title></h1>
+          <p class="hero__sub" data-bind="hero.subtitle"></p>
+          <div class="hero__actions">
+            <a class="btn btn--light" href="#works"><span data-i18n="cta.works">Смотреть работы</span><i data-icon="arrow"></i></a>
+            <a class="btn btn--glass" href="#contact" data-i18n="cta.talk">Обсудить проект</a>
+            <a class="btn btn--glass" href="assets/cv/CV_Voskresenskiy.pdf" download="CV_Voskresenskiy.pdf" data-cv><i data-icon="download"></i><span data-i18n="cta.cv">Скачать CV</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ——— Works / masonry ——— -->
+    <section class="works" id="works">
+      <div class="wrap">
+        <div class="section-head section-head--split">
+          <div>
+            <h2 class="h2" data-i18n="works.title">Избранные работы</h2>
+            <p class="lead" data-i18n="works.lead"></p>
+          </div>
+          <div class="filters" role="tablist" aria-label="Categories" data-filters></div>
+        </div>
+      </div>
+      <div class="wrap wrap--wide">
+        <div class="masonry" data-masonry></div>
+        <p class="works__empty" data-works-empty hidden data-i18n="works.empty"></p>
+        <div class="works__more"><button class="btn btn--glass" type="button" data-more hidden data-i18n="works.more">Показать ещё</button></div>
+      </div>
+    </section>
+
+    <!-- ——— About ——— -->
+    <section class="about" id="about">
+      <div class="wrap about__grid">
+        <h2 class="h2 about__title" data-bind="about.title"></h2>
+        <div>
+          <p class="about__text" data-bind="about.text"></p>
+          <dl class="stats" data-stats></dl>
+        </div>
+      </div>
+    </section>
+
+    <!-- ——— Light zone: skills + clients ——— -->
+    <div class="light">
+      <section class="skills" id="skills">
+        <div class="wrap">
+          <div class="section-head">
+            <p class="kicker" data-i18n="skills.kicker">Инструменты</p>
+            <h2 class="h2" data-i18n="skills.title"></h2>
+            <p class="lead" data-i18n="skills.lead"></p>
+          </div>
+          <ul class="skills__grid" data-skills></ul>
+        </div>
+      </section>
+
+      <section class="roles" id="roles">
+        <div class="wrap">
+          <div class="section-head">
+            <p class="kicker" data-i18n="roles.kicker">Направления</p>
+            <h2 class="h2" data-i18n="roles.title"></h2>
+            <p class="lead" data-i18n="roles.lead"></p>
+          </div>
+          <div class="pipe" data-roles></div>
+        </div>
+      </section>
+
+      <section class="clients" id="clients">
+        <div class="wrap">
+          <div class="clients__head">
+            <p class="clients__count" data-clients-count>150+</p>
+            <h2 class="h2 clients__title" data-i18n="clients.title"></h2>
+          </div>
+        </div>
+        <div class="marquee" data-marquee></div>
+      </section>
+    </div>
+
+    <!-- ——— Contact ——— -->
+    <section class="contact" id="contact">
+      <div class="wrap">
+        <div class="contact__card">
+          <div class="contact__glow" aria-hidden="true"></div>
+          <p class="kicker kicker--light" data-i18n="contact.kicker">Контакты</p>
+          <h2 class="contact__title" data-i18n="contact.title"></h2>
+          <p class="lead lead--light" data-i18n="contact.lead"></p>
+          <a class="btn btn--light contact__cv" href="assets/cv/CV_Voskresenskiy.pdf" download="CV_Voskresenskiy.pdf" data-cv><i data-icon="download"></i><span data-i18n="cta.cv">Скачать CV</span><small class="contact__cv-meta">PDF</small></a>
+          <div class="contact__links" data-contact-links></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__row">
+      <p>© <span data-year></span> <span data-bind="brand">Voskresenskiy</span> Design. <span data-i18n="footer.rights"></span></p>
+      <div class="socials socials--plain" data-socials></div>
+      <a class="footer__top" href="#top" data-i18n="footer.top">Наверх</a>
+    </div>
+  </footer>
+
+  <!-- ——— Lightbox ——— -->
+  <div class="lightbox" data-lightbox hidden role="dialog" aria-modal="true" aria-labelledby="lb-title">
+    <div class="lightbox__scrim" data-lb-close></div>
+    <div class="lightbox__panel" data-lb-panel>
+      <div class="lightbox__media" data-lb-media></div>
+      <aside class="lightbox__info">
+        <p class="lightbox__cat" data-lb-cat></p>
+        <h3 class="lightbox__title" id="lb-title" data-lb-title></h3>
+        <p class="lightbox__desc" data-lb-desc></p>
+        <dl class="lightbox__meta" data-lb-meta></dl>
+        <div class="lightbox__nav">
+          <button class="icon-btn" type="button" data-lb-prev aria-label="Previous"><i data-icon="left"></i></button>
+          <span class="lightbox__count" data-lb-count></span>
+          <button class="icon-btn" type="button" data-lb-next aria-label="Next"><i data-icon="right"></i></button>
+        </div>
+      </aside>
+      <button class="icon-btn lightbox__close" type="button" data-lb-close aria-label="Close"><i data-icon="close"></i></button>
+    </div>
+  </div>
+
+  <!-- самый верхний слой: мелкий анимированный шум -->
+  <div class="noise" aria-hidden="true" data-noise></div>
+
+  <script src="config.js"></script>
+  <script type="module" src="assets/js/site.js"></script>
+</body>
+</html>
