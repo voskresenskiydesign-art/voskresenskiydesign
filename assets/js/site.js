@@ -307,11 +307,71 @@ function columnsFor(width) {
   return 5;
 }
 
+/* ——————————————————— 18+ / чувствительный контент ——————————————————— */
+const ADULT_KEY = "vd-adult-ok";
+let adultOk = (() => { try { return sessionStorage.getItem(ADULT_KEY) === "1"; } catch { return false; } })();
+const isLocked = (w) => !!w?.sensitive && !adultOk;
+const blurPoster = (w) => (w.type === "image" ? w.src : w.poster || parseEmbed(w.src || "")?.thumb || "");
+
+function adultCover(w, big = false) {
+  const p = blurPoster(w);
+  return `<div class="adult ${big ? "adult--big" : ""}">
+    ${p ? `<img class="adult__bg" src="${esc(p)}" alt="" loading="lazy" decoding="async">` : ""}
+    <div class="adult__fg"><span class="adult__mark">18+</span><span class="adult__label">${esc(t("adult.badge"))}</span>
+    <span class="btn btn--glass btn--sm adult__btn" data-adult-open>${icons.eye || ""}${esc(t("adult.show"))}</span></div>
+  </div>`;
+}
+
+/** Два шага: предупреждение → «мне 18+». resolve(true) — согласие получено. */
+function askAdult(w) {
+  return new Promise((resolve) => {
+    const warn = tr(w?.warn, state.lang).trim() || t("adult.d1");
+    const box = document.createElement("div");
+    box.className = "gate"; box.setAttribute("role", "dialog"); box.setAttribute("aria-modal", "true");
+    box.innerHTML = `<div class="gate__scrim" data-g="no"></div>
+      <div class="gate__card">
+        <div class="gate__steps"><i class="is-on"></i><i></i></div>
+        <div class="gate__step" data-step="1">
+          <span class="gate__mark">!</span><h3>${esc(t("adult.t1"))}</h3><p>${esc(warn)}</p>
+          <div class="gate__btns"><button class="btn btn--glass" data-g="no">${esc(t("adult.back"))}</button><button class="btn btn--light" data-g="next">${esc(t("adult.next"))}</button></div>
+        </div>
+        <div class="gate__step" data-step="2" hidden>
+          <span class="gate__mark">18+</span><h3>${esc(t("adult.t2"))}</h3><p>${esc(t("adult.d2"))}</p>
+          <div class="gate__btns"><button class="btn btn--glass" data-g="no">${esc(t("adult.back"))}</button><button class="btn btn--accent-solid" data-g="ok">${esc(t("adult.ok"))}</button></div>
+        </div>
+      </div>`;
+    document.body.append(box);
+    requestAnimationFrame(() => requestAnimationFrame(() => box.classList.add("is-open")));
+    const done = (ok) => {
+      box.classList.remove("is-open"); removeEventListener("keydown", onKey, true);
+      setTimeout(() => box.remove(), 220); resolve(ok);
+    };
+    const onKey = (e) => { if (e.key === "Escape") { e.stopPropagation(); done(false); } };
+    addEventListener("keydown", onKey, true);
+    box.addEventListener("click", (e) => {
+      const g = e.target.closest("[data-g]")?.dataset.g; if (!g) return;
+      if (g === "no") done(false);
+      if (g === "next") { $('[data-step="1"]', box).hidden = true; $('[data-step="2"]', box).hidden = false; $$(".gate__steps i", box)[1].classList.add("is-on"); $('[data-g="ok"]', box).focus(); }
+      if (g === "ok") { adultOk = true; try { sessionStorage.setItem(ADULT_KEY, "1"); } catch {} done(true); }
+    });
+    $('[data-g="next"]', box).focus();
+  });
+}
+
+async function unlockAndOpen(i, from) {
+  const w = state.list[i];
+  if (!(await askAdult(w))) return;
+  renderWorks(false);                    // снимаем размытие со всех 18+ плиток
+  openLightbox(i, $(`.tile[data-index="${i}"]`) || from);
+}
+
 function tileHTML(w, i) {
   const title = tr(w.title, state.lang);
   let media = "";
   let badge = "";
-  if (w.type === "image" && w.src) {
+  if (isLocked(w)) {
+    media = adultCover(w);
+  } else if (w.type === "image" && w.src) {
     media = `<img src="${esc(w.src)}" alt="${esc(title)}" loading="lazy" decoding="async">`;
   } else if (w.type === "video" && w.src) {
     // в сетке — лёгкий беззвучный превью-клип; полный ролик грузится только в просмотрщике
@@ -331,7 +391,7 @@ function tileHTML(w, i) {
   } else {
     media = demoHTML(w);
   }
-  return `<article class="tile is-entering" tabindex="0" role="button" data-index="${i}" style="--ratio:${esc(String(w.ratio || "4/5").replace("/", " / "))}" aria-label="${esc(title)}">
+  return `<article class="tile is-entering${isLocked(w) ? " is-adult" : ""}" tabindex="0" role="button" data-index="${i}" style="--ratio:${esc(String(w.ratio || "4/5").replace("/", " / "))}" aria-label="${esc(title)}">
     <div class="tile__media">${media}</div>${badge}
     <div class="tile__info"><div><span class="tile__cat">${esc(catLabel(w.category))}</span><h3 class="tile__title">${esc(title)}</h3></div><span class="tile__go">${icons.arrowUpRight}</span></div>
   </article>`;
@@ -419,9 +479,9 @@ function wireTiles(host, animate) {
 
 function setupMasonryResize() {
   const host = $("[data-masonry]");
-  host.addEventListener("click", (e) => { const tile = e.target.closest(".tile"); if (tile) openLightbox(+tile.dataset.index, tile); });
+  host.addEventListener("click", (e) => { const tile = e.target.closest(".tile"); if (!tile) return; const i = +tile.dataset.index; isLocked(state.list[i]) ? unlockAndOpen(i, tile) : openLightbox(i, tile); });
   host.addEventListener("keydown", (e) => {
-    if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("tile")) { e.preventDefault(); openLightbox(+e.target.dataset.index, e.target); }
+    if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("tile")) { e.preventDefault(); const i = +e.target.dataset.index; isLocked(state.list[i]) ? unlockAndOpen(i, e.target) : openLightbox(i, e.target); }
   });
   let raf;
   new ResizeObserver(() => {
@@ -687,7 +747,10 @@ function fillLightbox(swap) {
   const media = $("[data-lb-media]", lb);
   const write = () => {
     const title = tr(w.title, L);
-    if (w.type === "image" && w.src) media.innerHTML = `<img src="${esc(w.full || w.src)}" alt="${esc(title)}">`;
+    if (isLocked(w)) {
+      media.innerHTML = adultCover(w, true);
+      $("[data-adult-open]", media).addEventListener("click", async (e) => { e.stopPropagation(); if (await askAdult(w)) { renderWorks(false); fillLightbox(false); } });
+    } else if (w.type === "image" && w.src) media.innerHTML = `<img src="${esc(w.full || w.src)}" alt="${esc(title)}">`;
     else if (w.type === "video" && w.src) media.innerHTML = `<video src="${esc(w.src)}" ${w.poster ? `poster="${esc(w.poster)}"` : ""} controls autoplay playsinline loop></video>`;
     else if (w.type === "embed" && parseEmbed(w.src)) media.innerHTML = `<iframe src="${esc(parseEmbed(w.src).embed)}" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="${esc(title)}"></iframe>`;
     else media.innerHTML = demoHTML(w).replace('class="demo', `style="--ratio:${esc(String(w.ratio || "4/5").replace("/", " / "))}" class="demo`);
